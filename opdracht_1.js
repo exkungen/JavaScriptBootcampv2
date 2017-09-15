@@ -14,11 +14,12 @@
                                                     var Water = "waterIsCold";
                                                         var Ice = "melt";
     function listProperties(obj) {
-        var propList = "";
+        var propList = Apple;
         for(var propName in obj) {
             if(typeof(obj[propName]) != "undefined") {
                 propList += (propName + ", ");
             }
         }
-        alert(propList);
+        console.log(propList);
     }
+listProperties();
