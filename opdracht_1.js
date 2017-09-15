@@ -1,4 +1,4 @@
-var Apple = "apple";
+    var Apple = "apple";
     var Banana =1;
         var Peer =  true;
             var School = false;
@@ -13,3 +13,12 @@ var Apple = "apple";
                                                 var Fire = 233;
                                                     var Water = "waterIsCold";
                                                         var Ice = "melt";
+    function listProperties(obj) {
+        var propList = "";
+        for(var propName in obj) {
+            if(typeof(obj[propName]) != "undefined") {
+                propList += (propName + ", ");
+            }
+        }
+        alert(propList);
+    }
