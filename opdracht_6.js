@@ -1,17 +1,17 @@
     var Apple = "apple";
-    var Banana = 1;
+    var Banana = 1 + Apple;
     var Peer =  true;
-    var School = false;
-    var Cherry = 32;
-    var SuperMan = "superpowers";
+    var School = false + SuperMan;
+    var Cherry = 32 + School;
+    var SuperMan = "superpowers true"  ;
     var Fly = 444;
-    var Bird = true;
+    var Bird = true ;
     var Snake = false;
-    var Tiger = 3245;
-    var Table = "bowArrow";
-    var Math = "math";
+    var Tiger = 3245 + Table;
+    var Table = "1200" ;
+    var Math = "math" ;
     var Fire = 233;
-    var Water = "waterIsCold";
+    var Water = "555" + Fire;
     var Ice = "melt";
 
 
