@@ -10,6 +10,11 @@ var alerttt = function foo() {
 
 alert(alerttt());
 
+var rekensom = function rekensom() {
+    return 88 * 22;
 
+};
+
+alert(rekensom());
 
 //de verschillen tussen een function declaration en experssion is dat een declaration altijd als eerst geladen word en een expression word geladen pas als de code runt
