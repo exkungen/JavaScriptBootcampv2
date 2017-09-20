@@ -3,4 +3,4 @@ function myFunction() {
     return boef * boef;
 }
 
-myFunction()
+myFunction();
