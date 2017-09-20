@@ -1,6 +1,12 @@
+
+var boef = "Gewoon boef man";
+
 function myFunction() {
-    var boef = 4;
-    return boef * boef;
+  console.log(boef);
+  boef = "boef";
+  console.log(boef);
+  var boef = 3;
+  console.log(boef);
 }
 
 myFunction();

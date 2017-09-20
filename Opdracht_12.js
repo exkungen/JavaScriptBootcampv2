@@ -5,4 +5,4 @@ var nummer = (function () {
 
 function telfunctie(){
     document.getElementById("teller").innerHTML = nummer();
-}ggerger
+}
