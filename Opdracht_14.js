@@ -1,10 +1,10 @@
-var Array2 = [
+ Array2 = [
     "Hallo", "Hey", "hooi"
 ];
-var Array3 = [
+Array3 = [
     "Appel","Banaan","Peer"
 ];
-var Array4 = [
+ Array4 = [
     "Mercedes","Opel","BMW"
 ];
 console.log(Array2.length);
