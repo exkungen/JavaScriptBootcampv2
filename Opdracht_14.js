@@ -7,6 +7,6 @@ var Array3 = [
 var Array4 = [
     "Mercedes","Opel","BMW"
 ];
-console.log(Array2);
-console.log(Array3);
-console.log(Array4);
+console.log(Array2.length);
+console.log(Array3.length);
+console.log(Array4.length);
